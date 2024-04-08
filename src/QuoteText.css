@@ -1,0 +1,9 @@
+.quote-text{
+    text-align: center;
+    justify-content: center;
+    align-items: baseline;
+}
+#text{
+    margin-left: 0.5em;
+    font-size: 2em;
+}

@@ -1,0 +1,36 @@
+.buttons {
+  padding: 5px;
+  display: block;
+  margin:auto;
+  width:500px;
+}
+#tweet-quote {
+  float:left;
+  margin-right:3px;
+  height:33px;
+  width:35px;
+  background-color: aquamarine;
+  text-decoration: none;
+  color: black;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+  border:solid black;
+}
+#copy-quote {
+  float:left;
+  height:33px;
+  width:35px;
+  background-color: aquamarine;
+  border:solid black;
+}
+#new-quote {
+  float:right;
+  height:33px;
+  width:85px;
+  background-color: aquamarine;
+  font-size: 0.8em;
+  box-sizing: border-box;
+  border:solid black;
+}

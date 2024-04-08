@@ -1,0 +1,7 @@
+#quote-box{
+    background-color: whitesmoke;
+    border-radius:6px;
+    width:500px;
+    padding:50px 40px;
+    position:relative;
+}
