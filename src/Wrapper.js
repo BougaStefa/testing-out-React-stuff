@@ -4,6 +4,7 @@ import Author from "./Author";
 import Buttons from "./Buttons";
 import { useState,useEffect } from 'react';
 
+
 const api_url = 'https://api.quotable.io/random';
 
 function Wrapper() {
